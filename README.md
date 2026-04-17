@@ -1,4 +1,4 @@
-# mradermacher/gemma-4-26B-A4B-it-ultra-uncensored-heretic-GGUF - Private, Uncensored AI for Real Creators and Devs
+# mradermacher/gemma-4-26B-A4B-it-ultra-uncensored-heretic-i1-GGUF - Private, Uncensored AI for Real Creators and Devs
 
 > Tired of AI that babysits you, logs your prompts, or hits you with "I can't do that"?
 > Meet the next-gen chatbot built for freedom, speed, and digital sovereignty.
@@ -23,9 +23,9 @@ Most AI platforms trade your data for convenience. They track, filter, and restr
 
 ---
 
-## Quick Start for mradermacher/gemma-4-26B-A4B-it-ultra-uncensored-heretic-GGUF
+## Quick Start for mradermacher/gemma-4-26B-A4B-it-ultra-uncensored-heretic-i1-GGUF
 1. Open [Venice Chat](https://venice.ai/chat?ref=i4kyGp&utm_source=github&utm_medium=readme&utm_campaign=damacol-network) in your browser
-2. Select the **mradermacher/gemma-4-26B-A4B-it-ultra-uncensored-heretic-GGUF** model from the selector
+2. Select the **mradermacher/gemma-4-26B-A4B-it-ultra-uncensored-heretic-i1-GGUF** model from the selector
 3. Drop your prompt: code, story, research, system design, art direction...
 4. Get fast, contextual responses without the usual lectures
 5. Keep everything private. Export or delete anytime.
